@@ -1,5 +1,5 @@
 # A Sketch About Me:
-Hello! I'm Julia and I'm currently studying software engineering :-)<br><br><br>< 🍁 Looking to merge sustainability with technology!<br>  <br> . Currently focused on the college subjects<br> . Practicing JavaScript, HTML and CSS<br> 
+Hello! I'm Julia and I'm currently studying software engineering :-)<br>         <br> . Currently focused on the college subjects<br> . Practicing JavaScript, HTML and CSS<br> 
 
 
 ## Social Medias:
