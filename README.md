@@ -12,6 +12,11 @@ Atualmente, tenho praticado meus conhecimentos através de projetos pessoais, po
 Além de alguns projetos pessoais próprios de ideias 100% originais, é claro! Todos os meus programas serão devidamente postados aqui na plataforma conforme a finalização de cada projeto meu.
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 Muito obrigada por ler até aqui! Precisando de qualquer coisa, vale ressaltar sempre que meus principais canais de comunicação são os:
 - ✉️ E-mail: jkulnigfellows@gmail.com
