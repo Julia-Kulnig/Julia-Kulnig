@@ -1,17 +1,25 @@
 # Um breve rabisco sobre mim :-)
+<br/>
+<br/>
 
 Oi! Tudo bem? Sejam muitíssimos bem vindos ao meu perfil ✌🏼. Me chamo Julia e sou uma estudante de Engenharia de Software focada, primordialmente, em Front-end e estou em busca do meu primeiro estágio! O GitHub é meu canal oficial de postagens de portfólio, então sinta-se livre para explorar todos os conteúdos disponibilizados!
 
+
 Atualmente, tenho praticado meus conhecimentos através de projetos pessoais, por exemplo:
- - Calculadoras, Landing Pages, visualização de clima e cronômetros. </HTML, CSS, JavaScript>
- - Armazenamento e gerenciamento de banco de dados. </MySQL>
-Além de alguns projetos pessoais próprios de ideias 100% originais, é claro! Todos os meus programas serão devidamente postados aqui na plataforma.
+ - Calculadoras, Landing Pages, visualização de clima e cronômetros. {HTML, CSS, JavaScript}
+ - Armazenamento e gerenciamento de banco de dados. {MySQL} <br/>
+
+Além de alguns projetos pessoais próprios de ideias 100% originais, é claro! Todos os meus programas serão devidamente postados aqui na plataforma conforme a finalização de cada projeto meu.
+<br/>
+<br/>
 
 Muito obrigada por ler até aqui! Precisando de qualquer coisa, vale ressaltar sempre que meus principais canais de comunicação são os:
+- ✉️ E-mail: jkulnigfellows@gmail.com
+- 👩🏼‍💻 LinkedIn: https://www.linkedin.com/in/julia-kulnig-fellows-8915122b8/  
 
-✉️ E-mail: jkulnigfellows@gmail.com
-👩🏼‍💻 LinkedIn: https://www.linkedin.com/in/julia-kulnig-fellows-8915122b8/  <br>         <br> . Currently focused on the college subjects<br> . Practicing JavaScript, HTML and CSS<br> 
 
+<br/>
+S.A.P.S 
 
 ## Social Medias:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-kulnig-fellows/) 
