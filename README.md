@@ -14,7 +14,7 @@ Além de alguns projetos pessoais próprios de ideias 100% originais, é claro! 
 
 Muito obrigada por ler até aqui! Precisando de qualquer coisa, vale ressaltar sempre que meus principais canais de comunicação são os:
 - ✉️ E-mail: jkulnigfellows@gmail.com
-- 👩🏼‍💻 LinkedIn: https://www.linkedin.com/in/julia-kulnig-fellows-8915122b8/  
+- 👩🏼‍💻 LinkedIn: [https://www.linkedin.com/in/julia-kulnig-fellows-8915122b8/](https://www.linkedin.com/in/julia-kulnig-fellows)  
 
 
 <br/>
