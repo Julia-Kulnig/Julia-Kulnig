@@ -1,7 +1,5 @@
 # Um breve rabisco sobre mim :-)
 <br/>
-<br/>
-
 Oi! Tudo bem? Sejam muitíssimos bem vindos ao meu perfil ✌🏼. Me chamo Julia e sou uma estudante de Engenharia de Software focada, primordialmente, em Front-end e estou em busca do meu primeiro estágio! O GitHub é meu canal oficial de postagens de portfólio, então sinta-se livre para explorar todos os conteúdos disponibilizados!
 
 
@@ -13,10 +11,6 @@ Além de alguns projetos pessoais próprios de ideias 100% originais, é claro! 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
 
 Muito obrigada por ler até aqui! Precisando de qualquer coisa, vale ressaltar sempre que meus principais canais de comunicação são os:
 - ✉️ E-mail: jkulnigfellows@gmail.com
